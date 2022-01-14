@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for file in `ls -1 flowplayer/*.html`
+do
+echo $file
+#ffmpeg -i Compressed/$file.flv -f image2 -vframes 1 -s 320x240 ../images/$file.jpg
+done

@@ -1,0 +1,44 @@
+
+body {
+	background-color:#fff;	
+	font-family:"Lucida Grande","bitstream vera sans","trebuchet ms",verdana,arial;
+	text-align:center;
+}
+
+#oldpage {
+	padding:20px 20px 20px 50px;
+	margin:20px auto;
+}
+
+#page {
+	background-color:#efefef;
+	width:410px;
+	padding:20px 20px 20px 50px;
+	margin:20px auto;
+	min-height:300px;
+	border:2px solid #fff;
+	outline:1px solid #ccc;
+	text-align:left;
+}
+.clipTitle {
+	background-color:#efefef;
+	font-family:"Lucida Grande","bitstream vera sans","trebuchet ms",verdana,arial;
+	font-style:normal;
+	font-weight:bold;
+	text-align:left;
+}
+
+.description {
+	background-color:#efefef;
+	font-family:"Lucida Grande","bitstream vera sans","trebuchet ms",verdana,arial;
+	text-align:left;
+}
+
+.less {
+	color:#999;
+	font-size:12px;
+}
+
+a {
+	color:#295c72;		
+}
